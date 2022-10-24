@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilmahajan14
 - 👀 I’m interested in techy/cody flakes!
-- 🌱 I’m currently learning python
+- 🌱 I’m currently an Undergraduate Student
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
       Just mail me!
